@@ -13,7 +13,7 @@
 
 [This is the website I used to learn how to use Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Navigate to my README](/README.md)
+[Navigate to my README](README.md)
 
 
 
