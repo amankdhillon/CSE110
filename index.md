@@ -2,6 +2,7 @@
 ***second year computer science student at UCSD***
 
 *Hello here is a picture of my dog:*
+![Image of dog](lp_image.jpeg)
 
 
 > I like coding!
