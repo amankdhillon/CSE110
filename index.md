@@ -9,7 +9,7 @@
 
 ` print("Hello World")`
 
-[Navigate to Section 2: Lists](https://amankdhillon.github.io/CSE110/#section-2-lists)
+[Navigate to Section 2: Lists](https://amankdhillon.github.io/CSE110-Lab1/#section-2-lists)
 
 [This is the website I used to learn how to use Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
